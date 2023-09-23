@@ -1,0 +1,20 @@
+{
+  "name": "surabhi",
+  "version": "1.0.0",
+  "description": "Version: 0.04",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "npm:Express@^3.0.1",
+    "Express": "^3.0.1",
+    "sequelize": "^6.33.0",
+    "sqlite3": "^5.1.6"
+  }
+}
